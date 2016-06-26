@@ -8,7 +8,7 @@
     "theme",
     "dark"
   ],
-  "repository": "https://github.com/atom/lbrunet-dark-syntax",
+  "repository": "https://github.com/lbrunet/lbrunet-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
