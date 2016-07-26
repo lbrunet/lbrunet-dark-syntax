@@ -1,7 +1,7 @@
 {
   "name": "lbrunet-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Atom syntax theme created by Laurent Brunet",
   "keywords": [
     "syntax",
